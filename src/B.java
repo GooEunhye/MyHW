@@ -1,6 +1,7 @@
 public class B {
 	String str;
 	String hi;
+	String hello;
 	public B() {
 		this.str = "";
 	}
