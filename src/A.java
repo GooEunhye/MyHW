@@ -5,5 +5,6 @@ public class A {
 		b.println();
 		C c = new C("World!");
 		b.show();
+		System.out.println("****************");
 	}
 }

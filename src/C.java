@@ -1,5 +1,6 @@
 public class C {
 	String str;
+	String hi;
 	public C() {
 		this.str = "";
 	}
