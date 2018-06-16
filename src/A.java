@@ -3,8 +3,13 @@ public class A {
 		System.out.println("****************");
 		B b = new B("Hello!");
 		b.println();
+<<<<<<< HEAD
 		System.out.println("****************");
+=======
+		System.out.println("********hihi********");
+>>>>>>> devB
 		C c = new C("World!");
 		b.show();
+		System.out.println("****************");
 	}
 }
