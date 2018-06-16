@@ -1,6 +1,6 @@
 public class C {
 	String str;
-	String str;
+	String hi;
 	public C() {
 		this.str = "";
 	}
